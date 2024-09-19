@@ -85,6 +85,7 @@ create, insert and delete entries
 
 ## Sprint Review:
  
+stuck at problems all the time. 
  - Stakeholder: have no hope for profit.
 
 ## retrospective
@@ -114,7 +115,8 @@ goal: find out where to put backend code...
 ## start sprint 2
 
 ## Sprint Review:
- 
+
+stuck at problems all the time. 
  - Stakeholder: have no hope for profit.
 
 ## retrospective
@@ -141,6 +143,7 @@ winforms create all windows and buttons
 
 ## Sprint Review:
  
+stuck at problems all the time. 
 we have a database and a connection.
  - Stakeholder: have no hope for profit.
 
@@ -167,11 +170,12 @@ winforms create all windows and buttons
 
 ## Sprint Review:
  
-we have a database and a connection.
+stuck at problems all the time. 
  - Stakeholder: have no hope for profit.
 
 ## retrospective
 
+we have a database and a connection but cannot query for existing entries.
 if there are some open questions leave them open. get things done with tools you don't understand. goal is not the mastery of a toolset. it's shipping a product.
 
 ## new capital calculation
@@ -185,7 +189,60 @@ total:		   3/8 hours
 
 next sprint:
 winforms create all windows and buttons
+communicate with database through form
 
 ## end sprint 3
 ## --------------------------------------------------------------------------
 ## start sprint 4
+
+## Sprint Review:
+
+winforms done
+still no database communication
+ - Stakeholder: no hope for profit. is only here because he is part of my imagination. opened law suit against me. written bad review
+
+## retrospective
+
+cannot communicate with database while catching no errors... 
+i have 0 concepts proofen working in this environment so i cannot isolate possible errors in working environments. 
+hoping for a miracle...
+
+## new capital calculation
+
+visual studio env: 5/5 hours
+pgp:               0/1 hour
+database:          0/2 hour
+
+total:			   5/8 hours
+
+next sprint:
+
+get the fucking database running and make all database realated buttons work
+
+## end sprint 4
+## --------------------------------------------------------------------------
+## start sprint 5
+
+## Sprint Review:
+
+yeah could communicate with database. sometimes problems get solved.
+now things just get build...
+but time is over
+ - Stakeholder: if expactions dropped from profit to loss and it keeps falling faster as more time goes by you are delighted if you are less broke after the trade with this "producer" than you expected. still a ride through hell without escape.
+
+## retrospective
+
+i had not put my distrust in the vsIDE into action. so i could'nt discover its behavior which differed from my expectations.
+now that problems disappear i am missing a plan describing the specific architecture of the applications: like which classes and how they interact.
+
+## new capital calculation
+
+visual studio env: 5/5 hours
+pgp:               0/1 hour
+database:          1/2 hour
+
+total:			   6/8 hours
+
+next sprint:
+
+
